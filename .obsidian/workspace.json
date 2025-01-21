@@ -1,0 +1,286 @@
+{
+  "main": {
+    "id": "193f0f3c8152d7fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a607fedfffd25eea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbe0f6c7fa28175b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo I ESEN/Semana 1, día 2 (14 de enero).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Semana 1, día 2 (14 de enero)"
+            }
+          },
+          {
+            "id": "3114956bc1de9c91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Técnica de estudio Feynman.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Técnica de estudio Feynman"
+            }
+          },
+          {
+            "id": "577d407348ae71df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo I ESEN/Semana 1, día 5 (17 de enero).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Semana 1, día 5 (17 de enero)"
+            }
+          },
+          {
+            "id": "9a5917bd406ecb39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciclo I ESEN/Semana 2, día 1 (20 de enero).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Semana 2, día 1 (20 de enero)"
+            }
+          },
+          {
+            "id": "3afa9759b56e3299",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Los 7 habitos, calendarizacion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Los 7 habitos, calendarizacion"
+            }
+          },
+          {
+            "id": "a3a10719a63dc349",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Prep for TOEFL/English Dashboard.canvas",
+                "viewState": {
+                  "x": 1006.6755100161567,
+                  "y": 187.3012067984589,
+                  "zoom": -0.44770599074223294
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "English Dashboard"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a303094be817fba",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca36042c8b370261",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "221dbdeccd8134c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "79b3e17850f878ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b42e00e0288b6a0d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "38fe9cfe4925f06c",
+    "type": "split",
+    "children": [
+      {
+        "id": "584fb85dddd40708",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22b0f91185cf6423",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "abfca016a356b248",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Alojamientos App.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Alojamientos App"
+            }
+          },
+          {
+            "id": "23bf837002c299da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Alojamientos App.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Alojamientos App"
+            }
+          },
+          {
+            "id": "127af16ce71c8eb3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Alojamientos App.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Alojamientos App"
+            }
+          },
+          {
+            "id": "a4ae90be6a99e623",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "soundscapes:Soundscapes: My Music": false
+    }
+  },
+  "active": "9a5917bd406ecb39",
+  "lastOpenFiles": [
+    "Ciclo I ESEN/Semana 1, día 5 (17 de enero).md",
+    "Ciclo I ESEN/Semana 2, día 1 (20 de enero).md",
+    "Técnica de estudio Feynman.md",
+    "Ciclo I ESEN/Semana 1, día 4 (16 de enero).md",
+    "Ciclo I ESEN/Semana 1, día 3 (15 de enero).md",
+    "Prep for TOEFL/English Dashboard.canvas",
+    "English.md",
+    "Creación.md",
+    "Ciclo I ESEN/Semanas y parciales.md",
+    "Prep for TOEFL",
+    "English Dashboar.md",
+    "Ciclo I ESEN/Semana 1, día 2 (14 de enero).md",
+    "Los 7 habitos, calendarizacion.md",
+    "Ciclo I ESEN/Semana 1, día 1.md",
+    "2025-01-10 at ESEN.md",
+    "Evaluaciones y calendarización ESEN.md",
+    "Ciclo I ESEN",
+    "Templates/Daily university template 1.md",
+    "Templates/End-of-Day Review template.md",
+    "2025-01-09 at ESEN.md",
+    "Templates/Daily university template.md",
+    "Alojamientos App/README.md",
+    "Alojamientos App/README 1.md",
+    "Alojamientos App/Specific goals.md",
+    "desktop.ini",
+    "Templates",
+    "2025-01-08.md",
+    "2025-01-03.md",
+    "2025-01-04.md",
+    "Alojamientos App",
+    "Pasted image 20250102161010.png",
+    "Welcome.md"
+  ]
+}

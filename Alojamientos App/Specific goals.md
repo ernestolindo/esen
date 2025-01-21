@@ -1,0 +1,22 @@
+- [ ] Signup and login system
+	- [x] Create `UsuarioModel` class
+		- [x] Create CRUD methods to interact with `alojamientos_app.usuarios`
+		- [x] Create method to get the details of an specific user
+	- [x] Create `UsuariosAlojamientosModel` class
+		- [x] Create CRUD methods to interact with `alojamientos_app.usuarios_alojamientos`
+		- [x] Create method to get the details of the collection of `alojamientos` from a specific user
+	- [x] Create view `login.php`
+		- [x] Create basic HTML structure
+		- [x] Create form
+	- [x] Create view `registro.php`
+		- [x] Create basic HTML structure
+		- [x] Create form
+	- [x] Create view `dashboard.php`
+		- [x] Create basic HTML structure
+	- [x] Create function to verify credentials on `UsuarioModel`
+	- [ ] `AuthController`
+		- [x] `login()`
+		- [ ] `register()`
+		- [ ] `logout()`
+	- [ ] Set up sessions on `home.php`
+		- [ ] Display a raw message identifying the user
