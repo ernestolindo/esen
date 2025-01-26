@@ -4,98 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "a607fedfffd25eea",
+        "id": "7ca3802abc1efed4",
         "type": "tabs",
         "children": [
           {
-            "id": "fbe0f6c7fa28175b",
+            "id": "767f0e84851c1c06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciclo I ESEN/Semana 1, día 2 (14 de enero).md",
+                "file": "Ciclo I ESEN/Semana 2, día 4 (23 de enero).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Semana 1, día 2 (14 de enero)"
+              "title": "Semana 2, día 4 (23 de enero)"
             }
           },
           {
-            "id": "3114956bc1de9c91",
+            "id": "4404aabb6452fb1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Técnica de estudio Feynman.md",
+                "file": "Hay algo que me entusiasma al empezar la universidad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hay algo que me entusiasma al empezar la universidad"
+            }
+          },
+          {
+            "id": "2f765154cb05cbfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hay algo que me entusiasma de la universidad (1).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Técnica de estudio Feynman"
-            }
-          },
-          {
-            "id": "577d407348ae71df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo I ESEN/Semana 1, día 5 (17 de enero).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Semana 1, día 5 (17 de enero)"
-            }
-          },
-          {
-            "id": "9a5917bd406ecb39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo I ESEN/Semana 2, día 1 (20 de enero).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Semana 2, día 1 (20 de enero)"
-            }
-          },
-          {
-            "id": "3afa9759b56e3299",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Los 7 habitos, calendarizacion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Los 7 habitos, calendarizacion"
-            }
-          },
-          {
-            "id": "a3a10719a63dc349",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Prep for TOEFL/English Dashboard.canvas",
-                "viewState": {
-                  "x": 1006.6755100161567,
-                  "y": 187.3012067984589,
-                  "zoom": -0.44770599074223294
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "English Dashboard"
+              "title": "Hay algo que me entusiasma de la universidad (1)"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "doce hombres",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -245,14 +200,32 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "soundscapes:Soundscapes: My Music": false
+      "soundscapes:Soundscapes: My Music": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a5917bd406ecb39",
+  "active": "2f765154cb05cbfe",
   "lastOpenFiles": [
-    "Ciclo I ESEN/Semana 1, día 5 (17 de enero).md",
+    "La ansiedad por el estatus, s2. Igualdad, expectativas y envidia.md",
+    "Hay algo que me entusiasma de la universidad (1).md",
+    "Hay algo que me entusiasma al empezar la universidad.md",
+    "Ciclo I ESEN/Semana 2, día 4 (23 de enero).md",
+    "Templates/Daily university template 1.md",
+    "Templates/Daily university template.md",
+    "2025-01-03.md",
+    "Alojamientos App/Specific goals.md",
+    "Pensamiento Crítico V.md",
+    "Resumenes clases previas",
+    "Resumenes de clases del dia",
+    "Ciclo I ESEN/Semana 2, día 2 (21 de enero).md",
+    "Clases",
+    "assets/Lindo.tarea 1.ET.pdf",
+    "assets",
+    "Archive/Borrador presentacion inicial.md",
+    "Archive",
     "Ciclo I ESEN/Semana 2, día 1 (20 de enero).md",
-    "Técnica de estudio Feynman.md",
+    "Ciclo I ESEN/Semana 1, día 5 (17 de enero).md",
+    "Clases/Técnica de estudio Feynman.md",
     "Ciclo I ESEN/Semana 1, día 4 (16 de enero).md",
     "Ciclo I ESEN/Semana 1, día 3 (15 de enero).md",
     "Prep for TOEFL/English Dashboard.canvas",
@@ -267,20 +240,9 @@
     "2025-01-10 at ESEN.md",
     "Evaluaciones y calendarización ESEN.md",
     "Ciclo I ESEN",
-    "Templates/Daily university template 1.md",
     "Templates/End-of-Day Review template.md",
-    "2025-01-09 at ESEN.md",
-    "Templates/Daily university template.md",
-    "Alojamientos App/README.md",
-    "Alojamientos App/README 1.md",
-    "Alojamientos App/Specific goals.md",
     "desktop.ini",
     "Templates",
-    "2025-01-08.md",
-    "2025-01-03.md",
-    "2025-01-04.md",
-    "Alojamientos App",
-    "Pasted image 20250102161010.png",
-    "Welcome.md"
+    "Pasted image 20250102161010.png"
   ]
 }

@@ -18,6 +18,6 @@
 ## What I Can Improve:
 - Identify areas to work on or strategies to address challenges
 
-## Today’s Tasks:
-- [ ] Set goals for the rest of the day
+## Today’s Accomplishments:
+- [ ] List what I achieved today
 
