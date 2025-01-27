@@ -33,19 +33,19 @@
 ## What I Learned:
 - La conciencia, el caso y la situación; qué es el bien
 - Necesito aplicar más winding down en mi vida, porque la ansiedad es muy frecuente en mi vida
-- Neces
+- Pretendo reconocer y aceptar el dolor
 
 ## My Best Moment Today:
-- Highlight a positive experience, achievement, or enjoyable moment
+- Me gustó dónde me senté en la clase de PC. Me sentí muy cómodo y entendí todo.
 
 ## My Biggest Challenge:
-- Describe a difficulty or obstacle I encountered
+- Andar sin una camiseta blanca manga corta es un reto porque he tenido que soportar una camiseta negra apretada sin mangas (o andar sin nada debajo), lo que ha sido muy incómodo.
 
 ## How I Felt Overall:
-- Reflect on my emotions throughout the day
+- Un poco mal, todavía con mucha flema y moco, además reflujo. Hubiera sido diferente si hubiera cuidado de mí ayer, pero la ansiedad me comió.
 
 ## What I Can Improve:
-- Identify areas to work on or strategies to address challenges
+- Identificar y poner en práctica formas de lidiar con la ansiedad
 
 ## Today’s Accomplishments:
 - [ ] List what I achieved today
