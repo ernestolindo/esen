@@ -26,9 +26,14 @@
 	- Análisis de La guerra de fruta y verdura
 	- Repaso clases 1-4
 	- Equivocarse
+	- Análisis de La conciencia
+- TOEFL Prep
+	- Reading section practice
 
 ## What I Learned:
-- Write down key concepts, skills, or lessons from today
+- La conciencia, el caso y la situación; qué es el bien
+- Necesito aplicar más winding down en mi vida, porque la ansiedad es muy frecuente en mi vida
+- Neces
 
 ## My Best Moment Today:
 - Highlight a positive experience, achievement, or enjoyable moment
