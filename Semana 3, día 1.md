@@ -15,6 +15,17 @@
 		- Productos notables
 - Liderazgo
 	- Hábito 2: Empezar con un fin en mente
+		- Definición del hábito
+		- Las dos creaciones
+		- Centro de vida
+		- El enunciado de misión personal
+- Pensamiento Crítico
+	-  El prejuicio
+		- El mito
+			- La religión
+	- Análisis de La guerra de fruta y verdura
+	- Repaso clases 1-4
+	- Equivocarse
 
 ## What I Learned:
 - Write down key concepts, skills, or lessons from today
