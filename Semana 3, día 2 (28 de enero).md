@@ -2,10 +2,11 @@
 
 ## Schedule:
 - Football training
-- Expresión textual
+- Expresión textual, clase 7
 	- Macrorreglas
-- Pensamiento Crítico
-	-  bhvgf
+- Pensamiento Crítico, clase 8
+	-  Equivocarse y la corrección
+	- Contextualizar
 - TOEFL Prep
 
 ## What I Learned:
