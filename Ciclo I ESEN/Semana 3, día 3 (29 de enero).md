@@ -23,13 +23,14 @@
 - Highlight a positive experience, achievement, or enjoyable moment
 
 ## My Biggest Challenge:
-- I should do Math exercises more often, I felt vulnerable during the control, I think I'll get a 5.
+- I felt vulnerable during the control, I think I'll get a 5.
 
 ## How I Felt Overall:
 - Reflect on my emotions throughout the day
 
 ## What I Can Improve:
-- Identify areas to work on or strategies to address challenges
+- I should bring sportswear when there are activities like a dance class
+-  I must do Math exercises more often, this won't happen to Zat the mathematician again.
 
 ## Today’s Accomplishments:
 - [ ] List what I achieved today
