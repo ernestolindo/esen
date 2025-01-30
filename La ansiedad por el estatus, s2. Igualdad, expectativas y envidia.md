@@ -20,11 +20,11 @@ Se abandonó la aristocracia y se instauró una sociedad donde los logros eran l
   
 ## **¿Cuál es el mal de las sociedades igualitarias según Tocqueville?**  
 
-Con la supuesta meritocracia surgió la ansiedad por el estatus. Como ya no se concebía la desigualdad como natural, en una sociedad donde el cielo era el límite los pobres de la sociedad moderna pensaban en su situación como una traición a sus expectativas. Los que no podían concretar sus aspiraciones sufrían de un odio violento hacia si mismos y hacia la sociedad.
+Con la supuesta ==meritocracia== aumentaron las ==expectativas==. Como ya no se concebía la desigualdad como natural, en una sociedad donde el cielo era el límite los pobres de la sociedad moderna pensaban en su situación como una traición a sus expectativas. Los que no podían concretar sus aspiraciones sufrían de un odio violento hacia si mismos y hacia la sociedad.
 
 ## **¿En qué se basa la autoestima según James?**  
 
-Esta sensación de humillación al fracasar solo se da cuando deseamos algo y no lo conseguimos, porque no podemos perder donde no competimos. Entonces la ecuación de la autoestima de James sugiere que la autoestima es nuestro éxito entre nuestras pretensiones.
+Esta sensación de humillación al fracasar solo se da cuando deseamos algo y no lo conseguimos, porque no podemos perder donde no competimos. Entonces la ecuación de la autoestima de James sugiere que la autoestima es nuestro ==éxito entre nuestras pretensiones==.
 
 Esta amargura de las expectativas defraudadas ha aumentado en la sociedad contemporánea con la creciente creencia de que no existe nada más allá de la vida terrenal, y por tanto, no podemos consolarnos en que lo que cosechemos aquí es solo una pequeña parte de lo que podemos lograr.
 
@@ -34,4 +34,4 @@ Las expectativas han aumentado gracias al auge de los libros de transformación 
   
 ## **¿Cómo se relaciona la riqueza con el deseo según Rousseau?**
 
-Rousseau establece que el hombre salvaje podía llegar a ser podía llegar a ser más feliz que el hombre moderno, a pesar de que incluso la clase más pobre de hoy en día cuenta con más comodidades que la civilización de las cavernas. El avance de la sociedad ha fomentado que nuestras expectativas no tengan un límite. El problema es que entre más queremos, menos valoramos lo que tenemos. El autor propone desear menos como método para alcanzar la riqueza, debido a que la riqueza no tiene que ver con tener muchas cosas, sino con tener lo que anhelamos. 
+Rousseau establece que el hombre salvaje podía llegar a ser podía llegar a ser más feliz que el hombre moderno, a pesar de que incluso la clase más pobre de hoy en día cuenta con más comodidades que la civilización de las cavernas. El avance de la sociedad ha fomentado que nuestras ==expectativas== no tengan un límite. El problema es que entre más queremos, menos valoramos lo que tenemos. El autor propone desear menos como método para alcanzar la riqueza, debido a que la riqueza no tiene que ver con tener muchas cosas, sino con tener lo que anhelamos. 
