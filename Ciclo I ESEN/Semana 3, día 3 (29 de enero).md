@@ -33,5 +33,8 @@
 -  I must do Math exercises more often, this won't happen to Zat the mathematician again.
 
 ## Today’s Accomplishments:
-- [ ] List what I achieved today
+- [x] Did TestReady lesson 2/3
+- [x] Hice ejercicios del contenido de Mate visto en clase
+- [x] Hice la primera diapositiva del trabajo parcial de pensamiento crítico
+- [x] Envié la tarea 2 de ET
 
