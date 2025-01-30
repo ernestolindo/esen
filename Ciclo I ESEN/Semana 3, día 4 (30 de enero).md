@@ -26,7 +26,7 @@
 - Was sensible today. Felt very good while exercising and showering. Then I managed to do a decent presentation (at least original and aligned with my identity) in ET.
 
 ## What I Can Improve:
-- I pretend not taking things personally. People just say things, It's my responsibility to not let them turn
+- I pretend not taking things personally. People just say things, It's my responsibility to not let them make me feel bad.
 
 ## Today’s Accomplishments:
 - [ ] List what I achieved today
