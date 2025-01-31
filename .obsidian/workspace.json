@@ -95,12 +95,14 @@
             "id": "ba43abb48abf067f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.3"
+                "file": "Ciclo I ESEN/Semana 3, día 5 (31 de enero).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.3"
+              "icon": "lucide-file",
+              "title": "Semana 3, día 5 (31 de enero)"
             }
           },
           {
@@ -275,6 +277,7 @@
   },
   "active": "ba43abb48abf067f",
   "lastOpenFiles": [
+    "Ciclo I ESEN/Semana 3, día 5 (31 de enero).md",
     "Ciclo I ESEN/Semana 3, día 4 (30 de enero).md",
     "Bibliografia.md",
     "Ciclo I ESEN/Semana 3, día 2 (28 de enero).md",
@@ -308,7 +311,6 @@
     "Creación.md",
     "Ciclo I ESEN/Semanas y parciales.md",
     "Prep for TOEFL",
-    "English Dashboar.md",
     "Ciclo I ESEN",
     "desktop.ini",
     "Templates",
