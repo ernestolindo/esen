@@ -22,7 +22,7 @@
 
 ## What I Can Improve:
 - I can be proactive in the next dynamics. I think I isolate myself. I am a natural leader, it's a waste to be a shy boy.
-- In rome, do as romans do. Kros is not as sen
+- In rome, do as romans do. Kros is not as sensitive as me, she is more cold, maybe I should adapt to her, instead of trying to change who she is.
 
 ## Today’s Accomplishments:
 - [ ] List what I achieved today
