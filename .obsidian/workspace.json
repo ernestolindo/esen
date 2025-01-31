@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "ba43abb48abf067f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.3"
+            }
+          },
+          {
             "id": "41459c2f76f4ee14",
             "type": "leaf",
             "state": {
@@ -106,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -125,7 +137,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -260,7 +273,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a726dc8d395798c",
+  "active": "ba43abb48abf067f",
   "lastOpenFiles": [
     "Ciclo I ESEN/Semana 3, día 4 (30 de enero).md",
     "Bibliografia.md",
