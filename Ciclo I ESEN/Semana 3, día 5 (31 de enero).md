@@ -25,9 +25,8 @@
 - In rome, do as romans do. Kros is not as sensitive as me, she is more cold, maybe I should adapt to her, instead of trying to change who she is.
 
 ## Today’s Accomplishments:
-- [ ] Enviar testReady de la semana
-- [ ] Completar ejercicio 3 de ET
-- [ ] Completar slide 1/2 de mis Paradigmas
-- [ ] Investigar sobre cómo estudiar efectivamente
-- [ ] 
+- [x] Enviar testReady de la semana
+- [x] Completar ejercicio 3 de ET
+- [x] Completar slide 1/2 de mis Paradigmas
+- [x] Investigar sobre cómo estudiar efectivamente
 
