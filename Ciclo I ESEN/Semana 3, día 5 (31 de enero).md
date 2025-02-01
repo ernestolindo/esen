@@ -25,5 +25,5 @@
 - In rome, do as romans do. Kros is not as sensitive as me, she is more cold, maybe I should adapt to her, instead of trying to change who she is.
 
 ## Today’s Accomplishments:
-- [ ] List what I achieved today
+- [ ] 
 
