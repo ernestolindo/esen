@@ -27,7 +27,11 @@
 	- Percepciones y sus consecuencias en el diario actuar
 		- Retratos: Van Gogh, Napoleón
 		- Giacomo Leopardi. *El infinito*
-
+- TOEFL Prep, clase 10
+	- Duo English Test Overview
+	- V & G worksheet
+	- Mid-term exam overview
+	- This week's agenda
 ## What I Learned:
 - 
 ## My Best Moment Today:
