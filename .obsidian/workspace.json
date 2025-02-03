@@ -106,6 +106,18 @@
             }
           },
           {
+            "id": "211ecdf87439de3d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          },
+          {
             "id": "41459c2f76f4ee14",
             "type": "leaf",
             "state": {
@@ -120,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -275,7 +287,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba43abb48abf067f",
+  "active": "211ecdf87439de3d",
   "lastOpenFiles": [
     "Ciclo I ESEN/Semana 3, día 5 (31 de enero).md",
     "Ciclo I ESEN/Semana 3, día 4 (30 de enero).md",
