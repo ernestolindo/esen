@@ -26,7 +26,8 @@
 - Con dolor de cabeza, un poco lento, síntomas de no haber descansado. Pero sobreviví, en clase de Nicoló se me levantó un poquito el ánimo.
 
 ## Today’s Accomplishments:
-- [ ] TestReady lesson
-- [ ] Progressed in Separata 3 reading
-- [ ] Practiced basic arithmetic problems
-- [ ] Wrote study techniques
+- [x] TestReady lesson
+- [x] Progressed in Separata 3 reading
+- [x] Practiced basic arithmetic problems
+- [x] Wrote study techniques
+- [x] Progressed in Tarea parcial de liderazgo
