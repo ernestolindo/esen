@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "24cd73abb476e2fe",
+        "id": "1891346eb32cf58d",
         "type": "tabs",
         "children": [
           {
-            "id": "a4bf6cf2dd97d700",
+            "id": "4c1b8c9751fb2a2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo I ESEN/Semana 4, día 3 (5 de febrero).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Semana 4, día 3 (5 de febrero)"
-            }
-          },
-          {
-            "id": "19d7c39b6a551b5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Daily university template 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Daily university template 1"
+              "title": "New tab"
             }
           }
         ]
@@ -190,40 +172,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4bf6cf2dd97d700",
+  "active": "221dbdeccd8134c1",
   "lastOpenFiles": [
-    "Ciclo I ESEN/Semana 4, día 2 (4 de febrero).md",
-    "Ciclo I ESEN/Semana 4, día 3 (5 de febrero).md",
+    "Archive/Borrador presentacion inicial.md",
+    "Los 7 habitos, calendarizacion.md",
+    "assets/Lindo.tarea 1.ET.pdf",
+    "Archive/La ansiedad por el estatus, s2. Igualdad, expectativas y envidia.md",
+    "Mobile note.md",
+    "Semanas y parciales.md",
+    "Pensamiento Crítico V.md",
+    "Ciclo I ESEN/Semana 0, día 4 (9 de enero).md",
+    "Hay algo que me entusiasma de la universidad (1).md",
+    "Hay algo que me entusiasma al empezar la universidad.md",
+    "Evaluaciones y calendarización ESEN.md",
+    "Bibliografia.md",
+    "2025-01-08.md",
     "Templates/Daily university template 1.md",
+    "Ciclo I ESEN/Semana 4, día 3 (5 de febrero).md",
+    "Ciclo I ESEN/Semana 0, día 5 (10 de febrero).md",
+    "2025-01-28.md",
+    "2025-01-04.md",
+    "2025-01-03.md",
+    "Ciclo I ESEN/Semana 4, día 2 (4 de febrero).md",
     "Ciclo I ESEN/Semana 4, día 1 (3 de febrero).md",
-    "Ciclo I ESEN/Semanas y parciales.md",
     "Ciclo I ESEN/Semana 3, día 5 (31 de enero).md",
     "Ciclo I ESEN/Semana 3, día 4 (30 de enero).md",
-    "Bibliografia.md",
     "Ciclo I ESEN/Semana 3, día 2 (28 de enero).md",
     "Ciclo I ESEN/Semana 2, día 4 (23 de enero).md",
     "Ciclo I ESEN/Semana 3, día 3 (29 de enero).md",
     "Ciclo I ESEN/Semana 3, día 1 (27 de enero).md",
-    "2025-01-28.md",
-    "La ansiedad por el estatus, s2. Igualdad, expectativas y envidia.md",
-    "Hay algo que me entusiasma de la universidad (1).md",
-    "Hay algo que me entusiasma al empezar la universidad.md",
-    "Templates/Daily university template.md",
-    "2025-01-03.md",
-    "Alojamientos App/Specific goals.md",
-    "Pensamiento Crítico V.md",
     "Resumenes clases previas",
     "Resumenes de clases del dia",
-    "Ciclo I ESEN/Semana 2, día 2 (21 de enero).md",
     "Clases",
-    "assets/Lindo.tarea 1.ET.pdf",
     "assets",
-    "Archive/Borrador presentacion inicial.md",
     "Archive",
-    "Ciclo I ESEN/Semana 2, día 1 (20 de enero).md",
-    "Ciclo I ESEN/Semana 1, día 5 (17 de enero).md",
-    "Clases/Técnica de estudio Feynman.md",
-    "Ciclo I ESEN/Semana 1, día 4 (16 de enero).md",
     "Prep for TOEFL/English Dashboard.canvas",
     "Prep for TOEFL",
     "Ciclo I ESEN",

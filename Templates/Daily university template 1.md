@@ -1,4 +1,4 @@
-# {{date}} at ESEN
+# {{date:dddd, MMMM Do YYYY}}
 
 ## Schedule:
 - List what did I lived today
