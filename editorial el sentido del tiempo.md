@@ -6,6 +6,8 @@ En primer lugar, el tiempo ha sido definido de distintas maneras a lo largo de l
 
 Además, Bergson llamó duración a la experiencia cualitativa del tiempo. La duración involucra la acumulación de experiencias pasadas, donde cada momento suma a la riqueza del presente. En este sentido, la consciencia está siempre en movimiento, donde las experiencias pasadas determinan las percepciones del presente y las posibilidades del futuro. Sin tiempo, no existe el Ser.
 
+Por otro lado, el Ser es lo que más merece pensarse en nuestro tiempo problemático, según Heidegger. Normalmente nunca pensamos en 
+
 
 
 
