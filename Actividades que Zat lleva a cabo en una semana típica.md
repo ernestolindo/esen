@@ -21,7 +21,6 @@ Hacer lecciones de programación en Mimo -- aprendiz de Programación I
 Tomar curso de programación en Udemy -- aprendiz de Programación I
 Salir a caminar -- Individuo II
 Salir a comprar insumos para el hogar -- Individuo I
-Contestar el teléfono -- Individuo I
-Hacer actividades en Edúcate (horas sociales) -- Voluntario
-Planificar el día siguiente antes de ir a dormir
-Bañarme
+Contestar el teléfono -- Individuo III
+Hacer actividades en Edúcate (horas sociales) -- Voluntario I
+Planificar el día siguiente antes de ir a dormir II
