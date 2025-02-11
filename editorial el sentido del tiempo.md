@@ -8,7 +8,7 @@ Además, Bergson llamó duración a la experiencia cualitativa del tiempo. La du
 
 Por otro lado, el Ser es lo que más merece pensarse en nuestro tiempo problemático, según Heidegger. Normalmente nos absorbemos en cuestiones técnicas o prácticas, pero no nos detenemos a reflexionar en una pregunta tan esencial para entender la realidad. Cuestionarnos por el propio ser y el de otros entes es una capacidad exclusivamente humana. El ser es lo que hace que un ente sea lo que es y se manifieste como tal.
 
-Ahora bien, la conciencia es el órgano que permite traducir el bien en acción humana, en otras palabras, 
+Ahora bien, la conciencia es el órgano que permite traducir el bien en acción humana. El bien es 
 
 
 
