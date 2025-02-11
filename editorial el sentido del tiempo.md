@@ -8,7 +8,11 @@ Además, Bergson llamó duración a la experiencia cualitativa del tiempo. La du
 
 Por otro lado, el Ser es lo que más merece pensarse en nuestro tiempo problemático, según Heidegger. Normalmente nos absorbemos en cuestiones técnicas o prácticas, pero no nos detenemos a reflexionar en una pregunta tan esencial para entender la realidad. Cuestionarnos por el propio ser y el de otros entes es una capacidad exclusivamente humana. El ser es lo que hace que un ente sea lo que es y se manifieste como tal.
 
-Ahora bien, la conciencia es el órgano que permite traducir el bien en acción humana. El bien es un concepto abstracto, pero a su vez está vivo y exige a la conciencia ser escuchado. El bien es eterno e infinito porque adquiere un nuevo significado de acuerdo a la situación. El acto de conciencia nos permite comprender, en una situación concreta, lo que es correcto. No es lo mismo el caso que la situación, porque en el caso no estoy yo. Cualquiera puede decir "se debe hacer así" cuando es un observador externo. Solo cuando la situación se vive en primera persona, .
+Ahora bien, la conciencia es el órgano que permite traducir el bien en acción humana. El bien es un concepto abstracto, pero a su vez está vivo y exige a la conciencia ser escuchado. El bien es eterno e infinito porque adquiere un nuevo significado de acuerdo a la situación. El acto de conciencia nos permite comprender, en una situación concreta, lo que es correcto. No es lo mismo el caso que la situación, porque en el caso no estoy yo. Cualquiera puede decir "se debe hacer así" cuando es un observador externo. Solo cuando la combinación de circunstancias, hombres y hechos me afecta, puedo interpretar el mandamiento del bien: "es un obedecer y, al mismo tiempo, un crear"; un comprender y un juzgar; un penetrar y un decidir". A través de la acción guiada por un juicio de valor tras la examinación de la conciencia es posible ser parte de la historia.
+
+La historia ha sido un elemento importante para la cultura occidental. Bloch considera que que esto se debe a la herencia cristiana y grecolatina, pueblos historiógrafos. Sin embarg
+
+
 
 
 
