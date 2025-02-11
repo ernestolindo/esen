@@ -1,21 +1,27 @@
-Pasear a perros
-Dormir
+Pasear a perros -- dueño
+Dormir -- individuo
 Escribir diario de gratitud
-Arreglar cama
-Recibir clases en la ESEN
-Hacer tareas
-Estudiar contenidos de clase
-Escribir reflexión después del día de clase
-Entrenamiento de fútbol
-Pasar tiempo con mejor amiga
-Pasar tiempo con mamá
-Escuchar música
-Ver TikTok
-Ver resúmenes de partidos en YouTube
-Ver partidos de fútbol
-Leer WhatsApp
-Leer correo electrónico institucional
-Leer correos electrónicos personales
-Hacer lecciones de inglés en Duolingo
-Hacer lecciones de programación en Mimo
-To
+Arreglar cama -- individuo
+Recibir clases en la ESEN -- estudiante
+Hacer tareas -- estudiante
+Estudiar contenidos de clase -- estudiante
+Escribir reflexión después del día de clase -- estudiante
+Entrenamiento de fútbol -- deportista
+Pasar tiempo con mejor amiga -- amigo
+Pasar tiempo con mamá -- hijo
+Escuchar música -- melómano
+Ver TikTok -- individuo
+Ver resúmenes de partidos en YouTube -- fanático
+Ver partidos de fútbol -- fanático
+Leer WhatsApp -- individuo
+Leer correo electrónico institucional -- estudiante
+Leer correos electrónicos personales -- individuo
+Hacer lecciones de inglés en Duolingo -- aprendiz de Inglés
+Hacer lecciones de programación en Mimo -- aprendiz de Programación
+Tomar curso de programación en Udemy -- aprendiz de Programación
+Salir a caminar -- Individuo
+Salir a comprar insumos para el hogar -- Individuo
+Contestar el teléfono -- Individuo
+Hacer actividades en Edúcate (horas sociales) -- Voluntario
+Planificar el día siguiente antes de ir a dormir
+Bañarme
