@@ -1,27 +1,27 @@
-Pasear a perros -- dueño
-Dormir -- individuo
-Escribir diario de gratitud
-Arreglar cama -- individuo
-Recibir clases en la ESEN -- estudiante
-Hacer tareas -- estudiante
-Estudiar contenidos de clase -- estudiante
-Escribir reflexión después del día de clase -- estudiante
-Entrenamiento de fútbol -- deportista
-Pasar tiempo con mejor amiga -- amigo
-Pasar tiempo con mamá -- hijo
-Escuchar música -- melómano
-Ver TikTok -- individuo
-Ver resúmenes de partidos en YouTube -- fanático
-Ver partidos de fútbol -- fanático
-Leer WhatsApp -- individuo
-Leer correo electrónico institucional -- estudiante
-Leer correos electrónicos personales -- individuo
-Hacer lecciones de inglés en Duolingo -- aprendiz de Inglés
-Hacer lecciones de programación en Mimo -- aprendiz de Programación
-Tomar curso de programación en Udemy -- aprendiz de Programación
-Salir a caminar -- Individuo
-Salir a comprar insumos para el hogar -- Individuo
-Contestar el teléfono -- Individuo
+Pasear a perros -- dueño I
+Dormir -- individuo II
+Escribir diario de gratitud II
+Arreglar cama -- individuo II
+Recibir clases en la ESEN -- estudiante I
+Hacer tareas -- estudiante I
+Estudiar contenidos de clase -- estudiante I
+Escribir reflexión después del día de clase -- estudiante II
+Entrenamiento de fútbol -- deportista II
+Pasar tiempo con mejor amiga -- amigo II
+Pasar tiempo con mamá -- hijo II
+Escuchar música -- melómano II
+Ver TikTok -- individuo IV
+Ver resúmenes de partidos en YouTube -- fanático II
+Ver partidos de fútbol -- fanático IV
+Leer WhatsApp -- individuo III
+Leer correo electrónico institucional -- estudiante III
+Leer correos electrónicos personales -- individuo III
+Hacer lecciones de inglés en Duolingo -- aprendiz de Inglés I
+Hacer lecciones de programación en Mimo -- aprendiz de Programación I
+Tomar curso de programación en Udemy -- aprendiz de Programación I
+Salir a caminar -- Individuo II
+Salir a comprar insumos para el hogar -- Individuo I
+Contestar el teléfono -- Individuo I
 Hacer actividades en Edúcate (horas sociales) -- Voluntario
 Planificar el día siguiente antes de ir a dormir
 Bañarme
