@@ -14,19 +14,24 @@
 		- La conciencia
 			- El bien
 			- El juicio de valor
+			- El tiempo
 		- Prejuicios y mitos
 		- El asombro
 			- Tipos de admiración
 		- Realismo, pesimismo absoluto y optimismo absoluto
-		- La correción
+		- La corrección
+			- Instruir y educar
+		- Filosofía y mitología
+		- Persona e individuo
+		- Percepción y forma de actuar
 ## My Best Moment Today:
-- Highlight a positive experience, achievement, or enjoyable moment
+- En la mañana, corrí por la cancha de fútbol escuchando música y después leí la separata 4 de De Botton en el CC. Fue más satisfactorio de lo que esperaba. *Columbia* de Quevedo.
 
 ## My Biggest Challenge:
-- Describe a difficulty or obstacle I encountered
+- En la actividad de equipo de ET me sentí un poco ansioso. Es normal, ya que no estoy acostumbrado a trabajar en equipo. Sin embargo, creo que hice un buen trabajo y quedé bien con los compañeros.
 
 ## How I Felt Overall:
-- Reflect on my emotions throughout the day
+- Bastante feliz, tranquilo. Martes y jueves son mis días favoritos porque me permiten más libertad y menos socializar. 
 
 ## Today’s Accomplishments:
 - [ ] List what I achieved today
