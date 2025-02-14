@@ -34,5 +34,10 @@
 - Bastante feliz, tranquilo. Martes y jueves son mis días favoritos porque me permiten más libertad y menos socializar. 
 
 ## Today’s Accomplishments:
-- [ ] List what I achieved today
+- [x] Progreso en editorial sobre el sentido del tiempo
+- [x] Progreso en tarea parcial de Liderazgo
+- [x] Estudio de suma y diferencia de potencias
+- [x] Lectura de separata 4
+- [x] Reading section
+- [x] Independent speaking
 
