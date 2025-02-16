@@ -49,7 +49,8 @@
               "title": "editorial el sentido del tiempo"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,11 +205,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c1b8c9751fb2a2f",
+  "active": "8608bec4e600f447",
   "lastOpenFiles": [
+    "Ciclo I ESEN/Semana 5, día 4 (13 de febrero).md",
     "Ciclo I ESEN/Semana 5, día 1 (10 de febrero).md",
     "editorial el sentido del tiempo.md",
-    "Ciclo I ESEN/Semana 5, día 4 (13 de febrero).md",
     "Actividades que Zat lleva a cabo en una semana típica.md",
     "Ciclo I ESEN/Semana 5, día 2 (11 de febrero).md",
     "desktop.ini",
