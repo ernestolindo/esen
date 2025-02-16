@@ -1,6 +1,8 @@
 # Introducccion
 
-Deberíamos dedicar nuestro tiempo a la realización del bien en cada situación a través de la conciencia. La conciencia es la puerta mediante la cual el eterno bien entra en el tiempo. El tiempo no son tan solo puntos fijos, es un conjunto subjetivo de vivencias que forman el ser, heterogéneo y en constante transición. El tiempo hace posible el Ser.
+En una sociedad  dedicar nuestro tiempo a la realización del bien en cada situación a través de la conciencia. La conciencia es la puerta mediante la cual el eterno bien entra en el tiempo. El tiempo no son tan solo puntos fijos, es un conjunto subjetivo de vivencias que forman el ser, heterogéneo y en constante transición. El tiempo hace posible el Ser. La experiencia cualitativa del tiempo nos invita a 
+
+%% Bergson's philosophy offers a transformative perspective on the meaning of time, inviting us to embrace its qualitative aspects and recognize the richness of our experiences. By shifting our focus from the quantity of time to the quality of our moments, we can cultivate deeper relationships, reduce stress, enhance self-awareness, and foster creativity. In a world that often prioritizes efficiency and productivity, Bergson's insights remind us of the profound beauty of living fully in the present, allowing time to become a source of joy and fulfillment rather than a relentless pursuit. Embracing this interpretation of time can lead to a more meaningful and enriched life, where each moment is valued for its unique contribution to our journey.%%
 
 # Desarrollo
 
