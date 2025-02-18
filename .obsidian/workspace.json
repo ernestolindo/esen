@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "e757693bcde993fa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
+          },
+          {
             "id": "8608bec4e600f447",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "editorial el sentido del tiempo"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +203,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "139f1ed3eafa4332",
+  "active": "e757693bcde993fa",
   "lastOpenFiles": [
     "editorial el sentido del tiempo.md",
     "Ciclo I ESEN/Semana 6, día 1 (17 de febrero).md",
