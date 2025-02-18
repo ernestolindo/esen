@@ -13,5 +13,6 @@
 - Ansioso, mal por el fin de semana desperdiciado. Pero optimista, ya me programaron el examen de Mate para el 19, en mi cumple. Voy a estudiar mucho, me voy a esforzar, y voy a confiar en que, para llegar aquí crucé mil selvas, no fue casualidad. Si estoy aquí es porque me lo merezco, he tenido todo en  contra y aún así siempre me volví a levantar. Aprecio mi carácter resiliente, porque a pesar de que sea sensible, soy fuerte.
 
 ## Today’s Accomplishments:
-- [ ] List what I achieved today
+- [x] Estudiar para Pensamiento Crítico
+- [x] Hacer lección de vocabulario 
 
