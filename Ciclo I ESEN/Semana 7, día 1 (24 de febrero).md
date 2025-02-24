@@ -32,7 +32,7 @@
 - No me cae muy bien Gerson, y tuve que estar escuchando su sermón durante la hora de almuerzo. No me gustan las reuniones durante el almuerzo, para mí esa hora es sagrada e importantísima para equilibrarme.
 
 ## How I Felt Overall:
-- Contento y
+- Contento y agradecido con ser quién soy y tener lo que tengo. Soy un hombre muy afortunado. Haré mi mejor esfuerzo para mejorar, sobre todo los fines de semana. Me siento optimista, sé que lo voy a lograr. Haré sentir orgullosas a Kros y a mamá.
 
 ## Today’s Accomplishments:
 - [ ] List what I achieved today
