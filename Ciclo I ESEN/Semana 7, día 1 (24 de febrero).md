@@ -35,5 +35,8 @@
 - Contento y agradecido con ser quién soy y tener lo que tengo. Soy un hombre muy afortunado. Haré mi mejor esfuerzo para mejorar, sobre todo los fines de semana. Me siento optimista, sé que lo voy a lograr. Haré sentir orgullosas a Kros y a mamá.
 
 ## Today’s Accomplishments:
-- [ ] List what I achieved today
-
+- [x] Duolingo Practice Test
+- [x] Progreso en lectura de Separata del correo electrónico
+- [x] Reflexión posclase
+- [x] Escribir flashcards posclase
+- [x] Progreso en lectura de Paradigmas de la interdependencia
