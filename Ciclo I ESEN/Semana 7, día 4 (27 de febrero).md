@@ -1,7 +1,11 @@
-# Wednesday, February 26th 2025
-Turista - bad bunny
+# Thursday, February 27th 2025
+
 ## Schedule:
-- List what did I lived today
+- Expresión Textual (clase 18)
+	- Redacción de una carta y un correo electrónico
+- Pensamiento Crítico (clase 18)
+	- Indicaciones tareas 4 y 5
+	- 
 ## My Best Moment Today:
 - Highlight a positive experience, achievement, or enjoyable moment
 
