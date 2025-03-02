@@ -12,10 +12,15 @@
 - Progresar en Breve historia de la economía
 - Progresar en Hábito 4
 - Ejercicio Mate
-- Hacer índices
 
 ## Plan de acción
 
+Pomociclo 1
 
-
+| Pomodoro | Actividades               |
+| -------- | ------------------------- |
+| 1        | Hábito 4                  |
+| 2        | TestReady, Ejercicio Mate |
+| 3        | Reading                   |
+| 4        | Listening                 |
 
