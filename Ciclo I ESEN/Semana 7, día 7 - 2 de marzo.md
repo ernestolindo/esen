@@ -25,7 +25,7 @@ pomociclo 1
 | pomodoro | actividades         |
 | -------- | ------------------- |
 | 1        | udemy, habito 4     |
-| 2        | forrar              |
+| 2        | giner               |
 | 3        | botella, proyeccion |
 | 4        | listening           |
 
