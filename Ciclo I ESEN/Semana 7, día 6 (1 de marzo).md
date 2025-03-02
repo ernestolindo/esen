@@ -24,3 +24,9 @@ Pomociclo 1
 | 3        | Reading                   |
 | 4        | Listening                 |
 
+## Logros
+
+- Leer los seis paradigmas de la interacción
+- entender el ejercicio de matemática
+- hacer el testready de hoy
+- hacer el reading section
