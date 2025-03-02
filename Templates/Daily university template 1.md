@@ -10,7 +10,3 @@
 
 ## How I Felt Overall:
 - Reflect on my emotions throughout the day
-
-## Today’s Accomplishments:
-- [ ] List what I achieved today
-

@@ -16,7 +16,3 @@
 
 ## How I Felt Overall:
 - Muy bien. Feliz. Siento que descansé bien anoche. No he tenido que esforzarme mucho. Me he sentido más sociable, creativo y positivo. 
-
-## Today’s Accomplishments:
-- [ ] List what I achieved today
-
