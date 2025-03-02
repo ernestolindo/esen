@@ -12,5 +12,4 @@
 
 - ¿Cuánto tiempo estudiaré y en qué bloques?
 
-## Obje
 
