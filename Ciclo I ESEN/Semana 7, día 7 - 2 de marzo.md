@@ -6,28 +6,28 @@
 
 ## Objetivos del día
 
-- lavar botella agua
-- situación udemy
-- proyección semanal
-- hacer flashcards
-- metodizar flashcards
-- practicar flashcards, hoy box 3
-- forrar los 7 habitos
-- actualizar hoja calificaciones
-- listening
-- texto 2 giner
-- terminar habito 4
+- lavar botella agua, *individuo*
+- situación udemy. *individuo*
+- proyección semanal. *individuo*
+- hacer flashcards. *individuo*
+- metodizar flashcards. *individuo*
+- practicar flashcards, hoy box 3. *individuo*
+- forrar los 7 habitos *individuo*
+- actualizar hoja calificaciones *individuo*
+- listening. *toefl*
+- texto 2 giner *pc*
+- terminar habito 4 *liderazgo*
 
 ## Plan de acción
 
 pomociclo 1
 
-| pomodoro | actividades |
-| -------- | ----------- |
-| 1        |             |
-| 2        |             |
-| 3        |             |
-| 4        |             |
+| pomodoro | actividades         |
+| -------- | ------------------- |
+| 1        | udemy, habito 4     |
+| 2        | forrar              |
+| 3        | botella, proyeccion |
+| 4        | listening           |
 
 
 
