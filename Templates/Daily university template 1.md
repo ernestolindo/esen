@@ -10,3 +10,23 @@
 
 ## How I Felt Overall:
 - Reflect on my emotions throughout the day
+
+## Objetivos del día
+
+- toefl:
+- pc:
+- mate:
+- bt:
+- et:
+- individuo:
+
+## Plan de acción
+
+
+| pomodoro | actividad |
+| -------- | --------- |
+| 1        |           |
+| 2        |           |
+| 3        |           |
+| 4        |           |
+
