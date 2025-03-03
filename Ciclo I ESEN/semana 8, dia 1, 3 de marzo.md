@@ -26,9 +26,9 @@
 
 ## Plan de acción
 
-| pomodoro | actividad |
-| -------- | --------- |
-| 1        |           |
-| 2        |           |
-| 3        |           |
-| 4        |           |
+| pomodoro | actividad                           |
+| -------- | ----------------------------------- |
+| 1        | audifonos, flashcards, tiempo libre |
+| 2        | habito 5                            |
+| 3        | traer control, ejercicios mate      |
+| 4        | preguntar vale, speaking            |
