@@ -2,9 +2,11 @@
 
 ## Schedule:
 - Matematica: desigualdades lineales
-- Liderazgo: habito 5, pro
+- Liderazgo: habito 5, procura primero comprender y despues ser comprendido
+- pc: los mitos del mas alla, el cristianismo
+- toefl; speaking question 2
 ## My Best Moment Today:
-- Highlight a positive experience, achievement, or enjoyable moment
+- clase de liderazgo, la disfrute, cortita y manejable. tema muy 
 
 ## My Biggest Challenge:
 - Describe a difficulty or obstacle I encountered
