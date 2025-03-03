@@ -15,6 +15,8 @@
 - forrar los 7 habitos *individuo*
 - actualizar hoja calificaciones *individuo*
 - listening. *toefl*
+- instructional video speaking 2 *toelf*
+- instructional video academic discussion *toefl*
 - texto 2 giner *pc*
 - terminar habito 4 *liderazgo*
 
