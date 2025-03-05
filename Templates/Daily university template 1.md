@@ -13,20 +13,10 @@
 
 ## Objetivos del día
 
-- toefl:
-- pc:
 - mate:
+- pc:
 - bt:
 - et:
+- toefl:
 - individuo:
-
-## Plan de acción
-
-
-| pomodoro | actividad |
-| -------- | --------- |
-| 1        |           |
-| 2        |           |
-| 3        |           |
-| 4        |           |
 
