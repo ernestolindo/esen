@@ -4,13 +4,13 @@
 - Matemática, clase 21: modelado con desigualdades
 - Liderazgo, clase 21: dinámicas "qué necesita el rey"
 ## Mi mejor momento:
-- Almorcé una deliciosa hamburguesa 
+- Almorcé una deliciosa hamburguesa del Wendy's
 
 ## Mi desafío más grande:
-- Una dificultad u obstáculo que encontré
+- En la clase de Mate me sentía mal por estar con ropa deportiva
 
 ## Cómo me sentí:
-- Reflexión de mis emociones y pensamientos a lo largo del día
+- 
 
 ## Objetivos de estudio:
 - mate:
