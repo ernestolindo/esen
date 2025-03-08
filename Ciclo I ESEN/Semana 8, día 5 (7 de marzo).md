@@ -13,9 +13,9 @@
 - Entre ansioso y cansado en Mate. En liderazgo agobiado como siempre, pero sobreviví, lo logre. Luego descansé un rato en el césped frente al parqueo y pedí una hamburguesa para almorzar. En general, día rápido y agitado.
 
 ## Objetivos de estudio:
-- mate: hoja de trabajo (repaso preparcial), hoja de ecuaciones cuadráticas
-- pc: 2 flashcards
-- bt: progresar en hábito 6
+- mate: hoja de trabajo (repaso preparcial)
+- pc: terminar tarea entrega hoy
+- bt: progresar hábito 6
 - et: ---
 - toefl: writing, reading
 - individuo: calificar profesores
