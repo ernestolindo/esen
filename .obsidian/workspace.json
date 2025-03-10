@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "2913f0c714911742",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
             "id": "cad97485c7fb8d04",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "Reflexión diaria"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +203,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18d99e96ad5ff276",
+  "active": "2913f0c714911742",
   "lastOpenFiles": [
     "Templates/Reflexión diaria.md",
     "Ciclo I ESEN/Semana 8, día 5 (7 de marzo).md",
