@@ -25,12 +25,14 @@
             "id": "2913f0c714911742",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "Ciclo I ESEN/Semana 9, día 1 (10 de marzo).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "Semana 9, día 1 (10 de marzo)"
             }
           },
           {
@@ -205,6 +207,7 @@
   },
   "active": "2913f0c714911742",
   "lastOpenFiles": [
+    "Ciclo I ESEN/Semana 9, día 1 (10 de marzo).md",
     "Templates/Reflexión diaria.md",
     "Ciclo I ESEN/Semana 8, día 5 (7 de marzo).md",
     "Ciclo I ESEN/semana 8, dia 1, 3 de marzo.md",
@@ -234,7 +237,6 @@
     "Mobile note.md",
     "Semanas y parciales.md",
     "Pensamiento Crítico V.md",
-    "Ciclo I ESEN/Semana 0, día 4 (9 de enero).md",
     "Resumenes clases previas",
     "Resumenes de clases del dia",
     "Clases",
