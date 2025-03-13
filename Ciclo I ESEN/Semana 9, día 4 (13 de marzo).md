@@ -15,7 +15,7 @@
 - mate: Ejercicios Zill
 - pc: ---
 - bt: ---
-- et: Tarea 7
+- et: Tarea 7, portafolio hasta pag. 13
 - toefl: ---
-- individuo: Hoja de calificaciones ET,
+- individuo: Hoja de calificaciones ET
 
