@@ -2,7 +2,8 @@
 
 ## Materias y contenidos:
 - Matemática: Transformaciones rígidas, transformaciones no rígidas
-- 
+- Liderazgo: Conversatorio con STAFF quinto año
+- PC: 
 ## Mi mejor momento:
 - Una experiencia positiva, logro o momento disfrutable
 
