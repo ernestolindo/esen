@@ -3,7 +3,7 @@
 ## Materias y contenidos:
 - Matemática: Transformaciones rígidas, transformaciones no rígidas
 - Liderazgo: Conversatorio con STAFF quinto año
-- PC: 
+- PC: Repaso de la edad moderna, Modos de pensar sobre el estado, Ideas económicas
 ## Mi mejor momento:
 - Una experiencia positiva, logro o momento disfrutable
 
