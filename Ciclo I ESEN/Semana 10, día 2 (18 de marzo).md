@@ -10,13 +10,12 @@
 - Me sentía mal en ET. Tenía necesidades fisiológicas, cansancio, falta de creatividad. Y aún le tengo un  poquito de miedo al guion, por suerte chatGPT me está ayudando.
 
 ## Cómo me sentí:
-- Bien. Ha sido un bien día que ha visto una faceta de Z
+- Bien. Ha sido un bien día que ha visto a un Zat integrarse un poco más en la vida social universitaria. Ahora parece que me saludo con más gente, me invitaron a la sala de CC del grupo de Fernando.
 
 ## Objetivos de estudio:
-- mate:
-- pc:
-- bt:
-- et:
-- toefl:
-- individuo:
+- mate: focus (control mañana)
+- pc: ---
+- bt: ---
+- et: ---
+- individuo: ---
 
