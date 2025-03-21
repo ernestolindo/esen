@@ -2,7 +2,7 @@
 
 ## Materias y contenidos:
 - ET: Control portafolio, práctica exposición
-- PC: 
+- PC: El 1900, edad contemp
 ## Mi mejor momento:
 - Una experiencia positiva, logro o momento disfrutable
 
