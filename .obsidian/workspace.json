@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciclo I ESEN/S10, D5 (21 de marzo).md",
+                "file": "Ciclo I ESEN/Semana 10, día 7 (23 de marzo).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S10, D5 (21 de marzo)"
+              "title": "Semana 10, día 7 (23 de marzo)"
             }
           },
           {
@@ -69,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Reflexión diaria.md",
+                "file": "Ciclo I ESEN/Semana 10, día 7 (23 de marzo).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reflexión diaria"
+              "title": "Semana 10, día 7 (23 de marzo)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -233,13 +233,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bdda71ca291b3602",
+  "active": "6e5414a9f36731fc",
   "lastOpenFiles": [
+    "Ciclo I ESEN/Semana 10, día 5 (21 de marzo).md",
+    "Ciclo I ESEN/Semana 10, día 7 (23 de marzo).md",
+    "Templates/Reflexión diaria.md",
     "Ciclo I ESEN/Semana 10, día 4 (20 de marzo).md",
-    "Ciclo I ESEN/S10, D5 (21 de marzo).md",
     "Mi viaje del héroe.md",
     "Templates/Reflexión del fin de semana.md",
-    "Templates/Reflexión diaria.md",
     "Ciclo I ESEN/Semana 10, día 2 (18 de marzo).md",
     "Ciclo I ESEN/Semana 10, día 1 (17 de marzo).md",
     "Ciclo I ESEN/Semana 9, día 7 (16 de marzo).md",
@@ -262,7 +263,6 @@
     "Archive/La ansiedad por el estatus, s2. Igualdad, expectativas y envidia.md",
     "desktop.ini",
     "Causas de la ansiedad por el estatus.md",
-    "editorial el sentido del tiempo.md",
     "Ciclo I ESEN/Untitled",
     "assets/Lindo.tarea 1.ET.pdf",
     "Resumenes clases previas",
