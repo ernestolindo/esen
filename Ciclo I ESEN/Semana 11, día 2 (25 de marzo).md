@@ -2,7 +2,7 @@
 
 ## Materias y contenidos:
 - ET: Charlas TED
-- PC: 
+- PC: Descubrir nuestro método, repaso
 ## Mi mejor momento:
 - Una experiencia positiva, logro o momento disfrutable
 
