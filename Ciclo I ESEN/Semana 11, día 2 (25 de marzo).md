@@ -1,7 +1,8 @@
 # Tuesday, March 25th 2025
 
 ## Materias y contenidos:
-- Qué vi hoy
+- ET: Charlas TED
+- PC: 
 ## Mi mejor momento:
 - Una experiencia positiva, logro o momento disfrutable
 
