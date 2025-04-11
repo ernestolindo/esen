@@ -9,4 +9,5 @@
 - android developer
 - forrar libros
 - comprar pepsi y sacar dinero
+- word of the day
 - ir a cena de despedida de Nicoló
