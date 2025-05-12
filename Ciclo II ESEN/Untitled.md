@@ -2,13 +2,12 @@
 
 ## Estado actual
 
-- ¿Cómo me siento en este momento? (Ejemplo: motivado, cansado, distraído, tranquilo, etc.)
-
+- Cansadito, mamá me habló feo porque está estresada limpiando las habitaciones, anduve buscando dos resaltadores de repuesto, pero no los encontré. No pasa nada, seguiré usando estos un ciclo más. Me siento balanciado, optimista.
 ## Objetivos de estudio:
 - te:
-- mate:
+- mate: prueba diagnostica de mate
 - bt:
-- coe:
+- coe: llenar hoja elevator pitch, páginas 21-27 lectura semanal
 - individuo:
 
 
