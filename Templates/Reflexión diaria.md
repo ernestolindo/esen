@@ -12,9 +12,8 @@
 - Reflexión de mis emociones y pensamientos a lo largo del día
 
 ## Objetivos de estudio:
+- te:
 - mate:
-- pc:
 - bt:
-- et:
+- coe:
 - individuo:
-
