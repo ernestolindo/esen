@@ -1,4 +1,4 @@
-# {{date:dddd, MMMM Do YYYY}}
+# Sunday, May 11th 2025
 
 ## Estado actual
 
