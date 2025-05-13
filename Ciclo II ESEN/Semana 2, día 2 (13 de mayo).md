@@ -1,9 +1,10 @@
 # Tuesday, May 13th 2025
 
 ## Materias y contenidos:
-- Ayudantía TE: 
+- Ayudantía TE: innovación, técnica SCAMPER
+- COE: comunicación no verbal
 ## Mi mejor momento:
-- Una experiencia positiva, logro o momento disfrutable
+- En la clase de COE vimos dos cortos que me llenaron en el 
 
 ## Mi desafío más grande:
 - Una dificultad u obstáculo que encontré
