@@ -1,7 +1,8 @@
 # Monday, May 12th 2025
 
 ## Materias y contenidos:
-- BT: 
+- BT: fortalezas del carácter y virtudes
+- COE: elevator pitch, conversario de "qué comunicamos"
 ## Mi mejor momento:
 - Una experiencia positiva, logro o momento disfrutable
 
