@@ -1,12 +1,13 @@
-# {{date:dddd, MMMM Do YYYY}}
+# Friday, May 16th 2025
 
 ## Reflexión inicial
 
 ### ¿Cómo me siento?
-- Mis emociones y pensamientos del momento
+- Contento, porque me tomé una Coca después de las presentaciones, pedí almuerzo del McDonald's y Julián nos sacó temprano de clase. Eso de las presentaciones fue durísimo, desvelos, estrés, ansiedad, pero al fin... terminó. Creo que hago bien al recompensarme por tan grande esfuerzo.
 
 ### ¿Qué tengo que hacer?
-- Tareas urgentes
+- Álgebra: Resolver hoja #2
+- TE: Leer "El ADN del innovador"
 
 ---
 
