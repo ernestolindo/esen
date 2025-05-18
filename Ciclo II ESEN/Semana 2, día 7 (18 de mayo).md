@@ -8,7 +8,8 @@
 ### ¿Qué tengo que hacer?
 - Terminar de leer El ADN del innovador
 - Terminar actividades de la semana 2 en portafolio
-- Añadir al aca
+- Añadir al calendario controles y exámenes
+- Planeación clase School+
 
 ---
 
