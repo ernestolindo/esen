@@ -6,7 +6,9 @@
 - Me siento contento, con energía positiva. Fui a desayunar a Super7 con mamá y perritos. Hay mucho que hacer, pero ahí vamos.
 
 ### ¿Qué tengo que hacer?
-- Tareas urgentes
+- Terminar de leer El ADN del innovador
+- Terminar actividades de la semana 2 en portafolio
+- Añadir al aca
 
 ---
 
