@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Semana 2, día 5 (16 de mayo)"
             }
+          },
+          {
+            "id": "de016831d5d43546",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0128aa51830e891b",
+  "active": "de016831d5d43546",
   "lastOpenFiles": [
     "Templates/Reflexión diaria.md",
     "Ciclo II ESEN/Semana 2, día 5 (16 de mayo).md",
