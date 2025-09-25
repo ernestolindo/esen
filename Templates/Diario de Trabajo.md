@@ -2,11 +2,11 @@
 
 ## Reflexión inicial
 
-### ¿Cómo me siento?
-- Mis emociones y pensamientos del momento
+### ¿Cómo me siento?, ¿por qué?
+Me siento ... porque ...
 
-### ¿Qué tengo que hacer?
-- Tareas urgentes
+### ¿Qué actividades voy a hacer en este momento de estudio?
+- Actividad 1
 
 ---
 
