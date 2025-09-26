@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2025-09-25"
             }
+          },
+          {
+            "id": "a2fed2fb597f2199",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,6 +179,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -176,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18d99e96ad5ff276",
+  "active": "a2fed2fb597f2199",
   "lastOpenFiles": [
     "Templates/Diario de Trabajo.md",
     "Diario de Trabajo/Ciclo 03-2025/2025-09-25.md",
