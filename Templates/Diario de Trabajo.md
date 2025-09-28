@@ -2,7 +2,7 @@
 
 \[¿Cómo me siento?, ¿por qué?] 
 
-\[¿En qué me voy a centrar durante este momento de estudio?] 
+\[¿Cuánto tiempo voy a estudiar? ¿En qué me voy a centrar?] 
 
 \[¿Qué he aprendido en clase recientemente?]
 
