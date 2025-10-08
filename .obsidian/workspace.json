@@ -13,15 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diario de Trabajo/Ciclo 03-2025/2025-09-28.md",
+                "file": "Mi viaje del héroe 2020-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-28"
+              "title": "Mi viaje del héroe 2020-24"
+            }
+          },
+          {
+            "id": "ffcf1d6ecc50877b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "clase is mar, 7.canvas",
+                "viewState": {
+                  "x": 2.160889965511643,
+                  "y": 16.152133047496278,
+                  "zoom": -0.42490681732694313
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "clase is mar, 7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,17 +195,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18d99e96ad5ff276",
+  "active": "ffcf1d6ecc50877b",
   "lastOpenFiles": [
-    "Templates/Diario de Trabajo.md",
+    "Clase IS 07-10-2025.md",
+    "clase is mar, 7.canvas",
+    "Mi viaje del héroe 2020-24.md",
     "Diario de Trabajo/Ciclo 03-2025/2025-09-28.md",
+    "Templates/Diario de Trabajo.md",
     "Templates/Daily university template.md",
     "Diario de Trabajo/Ciclo 03-2025/2025-09-26.md",
     "Diario de Trabajo/Ciclo 03-2025/2025-09-25.md",
     "Diario de Trabajo/Ciclo 03-2025",
     "Diario de Trabajo",
     "Ciclo I ESEN/Semana 3, día 3 (29 de enero).md",
-    "Mi viaje del héroe 2020-24.md",
     "Ciclo II ESEN/Semana 2, día 5 (16 de mayo).md",
     "Ciclo II ESEN/Semana 2, día 7 (18 de mayo).md",
     "Ciclo I ESEN/semana 8, dia 1, 3 de marzo.md",
@@ -207,8 +227,6 @@
     "Ciclo I ESEN/Semana 9, día 6 (15 de marzo).md",
     "Ciclo I ESEN/Semana 9, día 4 (13 de marzo).md",
     "Ciclo I ESEN/Semana 9, día 2 (11 de marzo).md",
-    "Ciclo I ESEN/Semana 9, día 1 (10 de marzo).md",
-    "Ciclo I ESEN/Semana 8, día 5 (7 de marzo).md",
     "Templates/desktop.ini",
     "desktop.ini",
     "Ciclo I ESEN/Untitled",

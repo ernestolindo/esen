@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"2deade671baac5c7","x":-163,"y":-161,"width":250,"height":60,"type":"text","text":"Tipo"},
+		{"id":"bc691591d63f344f","x":-460,"y":-129,"width":250,"height":60,"type":"text","text":"Datos"},
+		{"id":"9a51528add21702a","x":-163,"y":-99,"width":250,"height":60,"type":"text","text":"Estructura"},
+		{"id":"2c1c04c68b0782bb","x":100,"y":0,"width":250,"height":90,"type":"text","text":"Manera organizada para organizar y recuperar información."}
+	],
+	"edges":[
+		{"id":"b524e6fd7709f69a","fromNode":"bc691591d63f344f","fromSide":"right","toNode":"2deade671baac5c7","toSide":"left"},
+		{"id":"6516e33a9a0c4f7d","fromNode":"bc691591d63f344f","fromSide":"right","toNode":"9a51528add21702a","toSide":"left"}
+	]
+}
